@@ -6,4 +6,5 @@ All the source code is in the src directory.
 
 
 # UML
+This is not a total UML Diagram, but a BalanceUI class diagram.
 ![Alt text](UML.jpg?raw=true)
